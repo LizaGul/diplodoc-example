@@ -1,1 +1,13 @@
-Документация
+title: Документация
+href: index.yaml
+items:
+  - name: Документация
+    href: path/to/file.md
+  - name: ТЗ
+    items:
+      - name: Требования
+        href: path/to/file.md
+      - name: Источники
+        href: path/to/file.md
+  - name: Модель
+    href: path/to/file.md
